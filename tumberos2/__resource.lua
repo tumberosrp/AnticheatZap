@@ -7,3 +7,7 @@ client_scripts {
 	"client.lua",
 	"weaponblacklist.lua"
 }
+
+server_scripts {
+    'server.lua'
+}

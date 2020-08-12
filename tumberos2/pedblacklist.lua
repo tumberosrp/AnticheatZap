@@ -166,6 +166,7 @@ pedblacklist = {
 "stt_prop_stunt_track_funlng",
 "stt_prop_stunt_track_funnel",
 "stt_prop_stunt_track_hill",
+"prop_beach_fire",
 "stt_prop_stunt_track_hill2",
 "stt_prop_stunt_track_jump",
 "stt_prop_stunt_track_link",
